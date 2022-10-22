@@ -48,7 +48,6 @@ class _HomeState extends State<Home> {
         showPercentNum: true,
         mainColor: Colors.black,
         size: 20.0,
-        //ratio between height and width, if h=20, then w= 60, used to define the width according to height
         ratio: 3.0,
         showPercentSlide: true,
       ),
